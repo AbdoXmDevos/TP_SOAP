@@ -20,4 +20,5 @@ Test the operations of the web service using a tool like SoapUI or Oxygen.
 ## 5. Creating a SOAP Java Client
 - **Generate the Stub from the WSDL**: Generate a Stub from the WSDL to facilitate interaction with the web service.
 - **Develop a SOAP Client**: Develop a Java SOAP client to access and utilize the web service's functionalities.
-![Uploading tst2.PNG…]()
+
+![tst2](https://github.com/TahaManna07/WebServiceSOAP/assets/43857744/e6114809-4283-4e69-a169-808d9172d89d)
