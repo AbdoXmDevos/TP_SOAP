@@ -1,4 +1,4 @@
-package ma.enset;
+package ma.karimi.enset;
 
 import jakarta.jws.WebMethod;
 import jakarta.jws.WebParam;

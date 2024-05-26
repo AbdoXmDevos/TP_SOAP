@@ -1,4 +1,4 @@
-package ma.enset;
+package ma.karimi.enset;
 
 import proxy.BankService;
 import proxy.BanqueWS;
